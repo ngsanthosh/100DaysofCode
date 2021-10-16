@@ -10,3 +10,24 @@ leave it as it is and increment the current and low pointer, if it is 2 we swap 
 decrement high pointer. This all will execute as far as cuurent is less than high
 (Basically we iterate and if we get 0s we try to send it to left and if we encounter
 an 2s we try to send it to right. if 1 none) '''
+
+def sortColors(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: None Do not return anything, modify nums in-place instead.
+        """
+        n = len(nums)
+        C = 0
+        L = 0
+        H = n-1
+        while C <= H:
+            if nums[C] == 0:
+                nums[L], nums[C] = nums[C], nums[L]
+                L += 1
+                C += 1
+            elif nums[C] == 2:
+                nums[C], nums[H] = nums[H], nums[C]
+                H-=1
+            else:
+                C += 1
+        return nums
