@@ -7,6 +7,6 @@ a=[1,2,2,4,5,4,4]
 fin=0
 
 for i in a:
-    fin = fin ^ i
+    fin = fin ^ i #xor() inbuilt function can also be used
 
 print(fin)
