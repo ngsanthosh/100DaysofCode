@@ -33,3 +33,9 @@ if __name__=='__main__':
     root=insert(root,15)
     root=insert(root,30)
     print(getLeafcount(root))
+
+
+
+
+
+
