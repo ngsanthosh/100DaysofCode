@@ -1,5 +1,10 @@
 # Run Length Encoding
 
+# We first traverse every character in the string and check the number of times it has occured
+# and we return "5A3B5C"
+
+# Sadly this algorithm takes O(n^2) time 😥
+
 
 def RLE(string):
     count=0
@@ -13,6 +18,7 @@ def RLE(string):
             i+=1
         
         s+=str(count)+string[i]
+        # print(i)
         i+=1
     return s
 
