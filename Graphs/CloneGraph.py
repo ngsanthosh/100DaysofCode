@@ -1,3 +1,9 @@
+# Algo:
+# We first traverse through each and every of the nodes(of the graph) given to us, and then from that
+# we have neighbours from which we make recursive call, to avoid looping we maintain a hashtable, so that everytime
+# when we start working on a node, we check whether that node is already visited or not.
+
+
 """
 # Definition for a Node.
 class Node:
