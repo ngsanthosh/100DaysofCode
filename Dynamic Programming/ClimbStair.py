@@ -1,3 +1,8 @@
+#IF you solve using examples, you will get a pattern of numbers and that will be 
+# in pattern of fibonacci series. so here also the n is the step count. and finding n fibonacci series and this 
+# problem is same
+
+
 #recursive solution
 def climb_stairs(i,n):
     if i>n:
@@ -13,8 +18,9 @@ if __name__=='__main__':
 
 #Dynamic Programming
 def climbStairs(n):
-    if(n==1):
-        return 1
+    #However it returns 1, so the below condition is no longer needed
+    # if(n==1):
+    #     return 1 
     dp=[0 for i in range(n+1)]
     dp[1]=1
     dp[2]=2
