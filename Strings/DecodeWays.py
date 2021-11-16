@@ -1,5 +1,6 @@
 #We use Dynamic Programming here...we take each index value of string one by one and solve for it.
 
+# https://leetcode.com/problems/decode-ways/
 
 class Solution:
     def numDecodings(self, s: str) -> int:
