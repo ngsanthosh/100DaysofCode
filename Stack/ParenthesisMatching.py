@@ -1,4 +1,11 @@
 #Stack implemented using LL
+
+
+#Algo:
+# We iterate through each of the character in the string and if any open Parantheses is encountered
+# then we push it to the stack and if any closing paranthesis is found we pop element from stack and 
+# compare the parenthesis type if so we delete that from stack..if not we just pass to next iteration.
+
 import sys
 class node: 
 
