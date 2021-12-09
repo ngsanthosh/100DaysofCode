@@ -1,4 +1,4 @@
-
+# https://www.hackerrank.com/challenges/angry-professor/problem
 
 def angryProfessor(k, a):
     s = 0 
