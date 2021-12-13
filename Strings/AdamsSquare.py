@@ -2,6 +2,11 @@
 # reverse of the number itself
 # then the number is said to be adams number
 
+# Example: 12
+# 12x12=144
+# 21x21=441
+# thus if 144 is reversed we get 441 thus 12 is adams number
+
 a=int(input("Enter the number"))
 sq1=a**2
 
