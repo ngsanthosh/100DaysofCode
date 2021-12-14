@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/electronics-shop/problem
+
 def getMoneySpent(keyboards, drives, b):
     l = []
     for x in keyboards:
