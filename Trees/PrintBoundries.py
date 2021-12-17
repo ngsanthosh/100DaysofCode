@@ -1,3 +1,5 @@
+# We just round around the boudries and print all the boundary nodes that are possible.
+
 class Node: 
     def __init__(self, data): 
         self.val = data
