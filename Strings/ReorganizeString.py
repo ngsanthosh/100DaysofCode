@@ -1,5 +1,7 @@
 # https://leetcode.com/problems/reorganize-string/
 
+# Algo: under recursion, we just  rearrange the string places and then follow them repeatedly
+
 class Solution:
     def reorganizeString(self, s: str) -> str:
         n=len(s)
