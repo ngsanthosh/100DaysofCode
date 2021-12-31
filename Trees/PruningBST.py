@@ -1,5 +1,8 @@
 #https://leetcode.com/problems/binary-tree-pruning/
 
+
+# Algo: we just traverse through each of the node and drop all the subtrees which
+# only have '0's on them also we drop all 0's nodes.
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
