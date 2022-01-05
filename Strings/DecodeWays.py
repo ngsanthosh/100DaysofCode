@@ -2,6 +2,8 @@
 
 # https://leetcode.com/problems/decode-ways/
 
+# This is the way in which the string can be decoded in all different possible ways
+
 class Solution:
     def numDecodings(self, s: str) -> int:
         def helper(i):
