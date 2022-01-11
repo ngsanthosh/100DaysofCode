@@ -2,7 +2,6 @@
 
 
 #BruteForce
-
 class Solution:
     def hammingWeight(self, n: int) -> int:
         # print(n)
@@ -11,5 +10,14 @@ class Solution:
         
     
         # return a.count("1")
+
+#Using Bit Manipulation     
+class Solution:
+    def hammingWeight(self, n: int) -> int:
+        count = 0
+        while n:
+            count += n & 1
+            n=n>>1
+        return count
         
         
