@@ -19,5 +19,13 @@ class Solution:
             count += n & 1 #Binary ANDing
             n=n>>1 #Right Shifting by 1
         return count
-        
+#Still more optimal solution using bit manipulation in method 2 rather checking all 32 bits, we only
+# check for set bits alone
+class Solution:
+    def hammingWeight(self, n: int) -> int:
+        count = 0
+        while n:
+            n = n & n - 1
+            count +=1
+        return count
         
