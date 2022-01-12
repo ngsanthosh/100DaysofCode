@@ -10,6 +10,23 @@ Explanation:
 6pow2 + 8pow2 = 100
 1pow2 + 0pow2 + 0pow2 = 1'''
 
+My approach:(TLE error)
+class Solution:
+    def isHappy(self, n: int) -> bool:
+            result=[]
+            for i in str(n):
+                sqr = int(i)*int(i)
+                if(sqr == '1' or sqr == 1):
+                    return True
+                else:
+                    if(sqr in result):
+                        return False
+                    hello(sqr);
+                result.append(sqr)
+            
+
+    
+
 
 def next_num(n):
     total=0
