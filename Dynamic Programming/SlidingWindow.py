@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/the-birthday-bar/problem
+
 #My brute force approach
 def birthday(s, d, m):
     count=0
