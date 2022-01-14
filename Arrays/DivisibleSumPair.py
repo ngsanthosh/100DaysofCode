@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+
 # O(n^2) approach
 
 def divisibleSumPairs(n, k, ar):
