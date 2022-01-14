@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/the-birthday-bar/problem
 
+
+
 #My brute force approach
 def birthday(s, d, m):
     count=0
@@ -7,3 +9,6 @@ def birthday(s, d, m):
         if sum(s[i:m+i]) == d:
             count+=1
     return count
+
+# Optimal solution: https://www.youtube.com/watch?v=9fTnK0ulCXM
+
