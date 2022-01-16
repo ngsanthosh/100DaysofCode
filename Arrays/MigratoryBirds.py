@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/migratory-birds/problem
+# # https://www.hackerrank.com/challenges/migratory-birds/problem
 
 from collections import Counter
 def migratoryBirds(arr):
