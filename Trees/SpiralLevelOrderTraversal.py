@@ -13,8 +13,8 @@ class Solution(object):
         :type root: TreeNode
         :rtype: List[List[int]]
         """
-        stack1=[]
-        stack2=[]
+        stack1=[] #for odd levels
+        stack2=[] #for even levels
         result=[]
         stack1.append(root)
 
