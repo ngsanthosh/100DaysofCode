@@ -1,3 +1,5 @@
+#https://practice.geeksforgeeks.org/problems/children-sum-parent/1
+
 class Solution:
     #Function to check whether all nodes of a tree have the value 
     #equal to the sum of their child nodes.
