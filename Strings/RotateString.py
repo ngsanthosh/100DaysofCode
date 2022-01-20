@@ -11,9 +11,9 @@ for i in b[1]:
     sum=sum+(int(i)*int(i))
 if(sum%2==0):
     # print("even")
-    tem=b[0][1:len(a)-1]
+    tem=b[0][:-1]
     # print(tem)
-    res=tem+b[0][0]
+    res=b[0][-1]+tem
 else:
     # print("odd")
     tem=b[0][2:len(a)-2]
