@@ -1,4 +1,6 @@
-
+# given a string with alphabets and digits separeted by ':', we need to find the sum of square of 
+# the digits, if that is even we perform one right rotation alphabet part alone, else if it is even then we perform 
+# two right rotation on that alphabet part alone
 
 
 a="ghftd:1246"
