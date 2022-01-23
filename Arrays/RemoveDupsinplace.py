@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/remove-element/
+
 class Solution(object):
     def removeElement(self, nums, val):
         """
@@ -12,7 +14,7 @@ class Solution(object):
             nums.remove(val)
         
         return len(nums)    
-        
+
         #Meth2
         while val in nums:
             nums.remove(val)
