@@ -1,3 +1,6 @@
+# https://leetcode.com/problems/group-anagrams/
+
+
 from collections import defaultdi
 strs=["eat","tea","tan","ate","nat","bat"]
 anag = defaultdict(list)
