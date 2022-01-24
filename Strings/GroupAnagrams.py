@@ -1,6 +1,6 @@
 # https://leetcode.com/problems/group-anagrams/
 
-
+# T - O(n L log L) S- O(nL) where L is the length of each string
 from collections import defaultdi
 strs=["eat","tea","tan","ate","nat","bat"]
 anag = defaultdict(list)
