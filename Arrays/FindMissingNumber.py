@@ -1,3 +1,6 @@
+# https://www.youtube.com/watch?v=8i-f24YFWC4&t=256s
+
+# https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 
 class Solution(object):
     def findDisappearedNumbers(self, nums):
