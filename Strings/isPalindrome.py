@@ -1,5 +1,9 @@
 # https://leetcode.com/problems/valid-palindrome/
 
+# In this we use the python inbuilt function isalnum() which is used to check if a character is a alphanumeric character
+# or not. also we use lower() function to convert the given string into lowercase. then finally we reverse the string and 
+# compare it with the original array 
+
 
 class Solution(object):
     def isPalindrome(self, s):
