@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/minimum-size-subarray-sum/
+# https://www.youtube.com/watch?v=aYqYMIqZx5s&ab_channel=NeetCode
 
 class Solution(object):
     def minSubArrayLen(self, target, nums):
