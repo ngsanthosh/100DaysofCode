@@ -1,4 +1,6 @@
+#  https://www.youtube.com/watch?v=D0X0BONOQhI&ab_channel=NeetCode
 
+# https://leetcode.com/problems/intersection-of-two-linked-lists/
 
 
 # Definition for singly-linked list.
