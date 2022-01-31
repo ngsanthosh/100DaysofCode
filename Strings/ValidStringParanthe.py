@@ -1,4 +1,6 @@
+# https://www.youtube.com/watch?v=QhPdNS143Qg
 
+# https://leetcode.com/problems/valid-parenthesis-string/
 
 class Solution(object):
     def checkValidString(self, s):
