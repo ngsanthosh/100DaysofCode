@@ -1,4 +1,9 @@
+# Given an start and ending range, we should find all the intersting numbers within that, 
 
+# An intresting number is a number 
+#  we should find the count of odd numbers and even numbers in the current string/Number,
+
+#  If oddCount in that number is even and EvenCount in that number is odd, then a number is said to Be intresting number
 
 
 start=2
