@@ -1,3 +1,5 @@
+# https://www.geeksforgeeks.org/print-common-characters-two-strings-alphabetical-order-2/
+
 a="geeksforgeeks"
 b="practiceforgeeks"
 c=""
