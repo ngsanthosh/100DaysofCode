@@ -24,9 +24,9 @@ class Solution(object):
             left = deefs(root.left)
             right= deefs(root.right)
             
-            res[0]=max(res[0],2+left+right)
+            res[0]=max(res[0],2+left+right) #To track of Diameter at each level and update the max value everytime
             
-            return 1+max(left,right)
+            return 1+max(left,right) #Also this step is used to find the height of the BST
         
         deefs(root)
         
