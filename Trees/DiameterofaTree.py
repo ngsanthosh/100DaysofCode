@@ -1,3 +1,8 @@
+# https://leetcode.com/problems/diameter-of-binary-tree/
+
+# https://www.youtube.com/watch?v=bkxqA8Rfv04
+
+
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, val=0, left=None, right=None):
@@ -28,4 +33,3 @@ class Solution(object):
         return res[0]
         
 
-        
