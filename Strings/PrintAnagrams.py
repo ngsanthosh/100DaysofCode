@@ -14,3 +14,6 @@ def printAnagramsTogether(words):
 if __name__ == "__main__": 
     arr = ["cat", "dog", "tac", "god", "act"] 
     printAnagramsTogether(arr)
+
+
+    

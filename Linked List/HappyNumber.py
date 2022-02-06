@@ -13,7 +13,7 @@ Explanation:
 6pow2 + 8pow2 = 100
 1pow2 + 0pow2 + 0pow2 = 1'''
 
-My approach:(TLE error)
+# My approach:(TLE error)
 class Solution:
     def isHappy(self, n: int) -> bool:
             result=[]
