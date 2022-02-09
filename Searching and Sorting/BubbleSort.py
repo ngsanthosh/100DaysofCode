@@ -1,4 +1,4 @@
-
+# O(n*n) approach 
 
 def bubb(a):
     n=len(a)
