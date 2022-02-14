@@ -16,4 +16,4 @@ def yesh(a):
 
 # print("Executin")
 b=input()
-yesh(b)v
+yesh(b)
