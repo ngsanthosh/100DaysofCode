@@ -1,3 +1,6 @@
+# https://crackchallenges.wordpress.com/2018/06/12/adamant-kid/
+
+
 a="icecream"
 x=4
 y=10
