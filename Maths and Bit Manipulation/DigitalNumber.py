@@ -1,5 +1,5 @@
-
-
+# Given an number find the digital sum that is the final sum on recursively doing it and ending with 
+# one digit number....(Otthapadai)!!
 
 def yesh(a):
     # a=246
