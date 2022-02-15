@@ -1,3 +1,5 @@
+# https://media-exp1.licdn.com/dms/document/C561FAQFLPz38ZnJaEg/feedshare-document-pdf-analyzed/0/1644905865713?e=1645002000&v=beta&t=ttjJhc9UtuvB8YzqwO-y4o2WnbBq6s3Lbtz9vRWJHqo
+
 a=int(input())
 lst=[]
 for i in range(a):
