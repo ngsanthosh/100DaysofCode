@@ -1,3 +1,4 @@
+# https://takeuforward.org/data-structure/check-if-a-number-is-a-strong-number-or-not/
 
 # n=int(input())
 
