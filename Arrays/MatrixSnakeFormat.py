@@ -1,3 +1,5 @@
+# https://practice.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1/#
+
 
 #User function Template for python3
 
