@@ -1,3 +1,5 @@
+#Refer Ajay 26/2/22
+
 a=int(input("Enter the number of items bought"))
 prices=[]
 for i in range(a):
