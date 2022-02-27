@@ -1,3 +1,5 @@
+# https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1
+
 #User function Template for python3
 
 class Solution:
