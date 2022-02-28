@@ -1,3 +1,5 @@
+#Python SPECIFICS
+
 a="TUE"
 b=19
 day=["MON","TUE","WED","THU","FRI","SAT","SUN"]
