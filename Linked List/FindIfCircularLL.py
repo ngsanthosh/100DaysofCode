@@ -3,7 +3,7 @@
 
 
 #Method1
-def isCircular(head):
+def isCircular(head):                   
     # Code here
     curr=head
     while curr:
@@ -11,7 +11,16 @@ def isCircular(head):
             return True
         curr=curr.next
     return False
-
+    
+# def isCircular(head):
+#     # Code here
+#     curr=head
+#     while curr:
+#         if(curr.next==head):
+#             return True
+#         elif(curr.next==None):
+#             return False
+#         curr=curr.next
 
 #Method2
 def isCircular(head):
