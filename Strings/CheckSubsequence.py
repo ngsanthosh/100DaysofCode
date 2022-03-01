@@ -1,3 +1,5 @@
+# https://practice.geeksforgeeks.org/problems/check-for-subsequence4930/1#
+
 #User function Template for python3
 
 class Solution:
