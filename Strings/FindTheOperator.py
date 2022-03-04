@@ -3,6 +3,7 @@
 
 # Very Very Bruteeeee force approach
 
+# Given an expression with wrong operator of answer find the correct operator that yields the correct answer
 a="999-9=111"
 
 b=a.split("=")
