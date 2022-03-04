@@ -19,7 +19,7 @@ class Solution(object):
         while l1!=l2:
             l1=l1.next if l1 else headB
             l2=l2.next if l2 else headA
-        return l2
+        return l2 # return l1 or l2 doesnt matter bcpz both are same
         
 #         tocheck=[]
 #         while headA.next is not None:
