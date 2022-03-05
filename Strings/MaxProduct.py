@@ -8,6 +8,13 @@ class Solution:
                 if(i in str2):
                     return False
             return True
+            # An optimal solution giving TLE error👇
+            # bit1=bit2=0
+            # for i in str1:
+            #     bit1 |= 1<< (ord(i)-ord('a'))
+            # for i in str2:
+            #     bit2 |= 1<< (ord(i)-ord('a'))
+            # return bit1 & bit2 == 0
         maxx=0
         for x in range(len(words)):
             for y in range(x+1,len(words)):
