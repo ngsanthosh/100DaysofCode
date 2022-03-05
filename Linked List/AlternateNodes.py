@@ -1,3 +1,5 @@
+# https://practice.geeksforgeeks.org/problems/delete-alternate-nodes/1#
+
 #User function Template for python3
 
 '''class Node: 
