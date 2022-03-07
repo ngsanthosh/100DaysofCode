@@ -1,3 +1,5 @@
+# https://practice.geeksforgeeks.org/problems/total-count2415/1#
+
 class Solution:
     def totalCount(self, arr, n, k):
         # code here
