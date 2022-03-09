@@ -1,3 +1,5 @@
+# https://practice.geeksforgeeks.org/problems/replace-all-0-with-5-in-an-input-integer/1/#
+
 class Solution:
     def convertFive(self,n):
         #Code here
