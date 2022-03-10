@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/java-hashmap1033/1#
+
 class Solution{
     static int map(int n, String keys[], int arr[], String s)
     {
