@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/jumpy-ball1449/1#
+
 class Solution{
     static long jumpyBall(long N){
         // code here
