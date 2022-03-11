@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/red-or-green5711/1#
+
 class Solution {
     static int RedOrGreen(int N, String S) {
         //code here
