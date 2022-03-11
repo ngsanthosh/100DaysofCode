@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/maximum-money2855/1
+
 class Solution {
     static int maximizeMoney(int N , int K) {
         // code here
