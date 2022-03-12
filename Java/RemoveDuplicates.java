@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1#
+
 class Solution {
     int remove_duplicate(int A[],int N){
         // code here
