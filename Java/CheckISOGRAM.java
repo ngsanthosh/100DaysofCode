@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/check-if-a-string-is-isogram-or-not-1587115620/1
+
 class Solution
 {
     //Function to check if a string is Isogram or not.
