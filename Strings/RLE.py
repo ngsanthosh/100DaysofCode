@@ -5,7 +5,7 @@
 
 # Sadly this algorithm takes O(n^2) time 😥
 
-
+# Update: Fortunately the below algo takes only O(n) time
 
 def encode(arr):
     # Code here
