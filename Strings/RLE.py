@@ -6,22 +6,20 @@
 # Sadly this algorithm takes O(n^2) time 😥
 
 
-def RLE(string):
-    count=0
-    s=""
-    i=0
-    n=len(string)
-    while(i<n):
-        count=1
-        while(i+1<n and string[i]==string[i+1]):
-            count+=1
-            i+=1
-        
-        s+=str(count)+string[i]
-        # print(i)
-        i+=1
-    return s
 
-if __name__=='__main__':
-    string="AAAAABBBBBBCCCCC"
-    print(RLE(string))
+def encode(arr):
+    # Code here
+    ret = ""
+    count=1
+    s=len(arr)
+    
+    if(s==1):
+        return arr+"1"
+    arr=arr+' '
+    for i in range(1,s+1):
+        if(arr[i]!=arr[i-1]):
+            ret+=arr[i-1]+str(count)
+            count=0
+            # pass
+        count+=1
+    return ret
