@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/string-reversalunpublished-for-now5324/1#
+
 class Solution
 {
     public Boolean check(int x, String st){
