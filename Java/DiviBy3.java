@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/form-a-number-divisible-by-3-using-array-digits0717/1#
+
 class Solution {
     static int isPossible(int N, int arr[]) {
         // code here
