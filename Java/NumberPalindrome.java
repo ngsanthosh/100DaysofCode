@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/palindrome0746/1#
+
 class Solution
 {
     public String is_palindrome(int n)
