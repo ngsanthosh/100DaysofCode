@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/implement-strstr/1/#
+
 class GfG
 {
     boolean callme(int j,String ss,String find){
