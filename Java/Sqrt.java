@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/square-root/1/?company#
+
 class Solution
 {
      long floorSqrt(long x)
