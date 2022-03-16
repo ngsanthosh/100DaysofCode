@@ -12,7 +12,7 @@ class Solution
 		    if(mid*mid==x){
 		        return mid;
 		    }
-		    else if(mid<=x/mid){
+		    else if(mid<=x/mid){ //or mid*mid <= x
 		        i=mid+1;
 		        ans=mid;
 		    }
