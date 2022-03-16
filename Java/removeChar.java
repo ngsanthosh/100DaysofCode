@@ -1,4 +1,4 @@
-https://practice.geeksforgeeks.org/problems/remove-character3815/0/#
+// https://practice.geeksforgeeks.org/problems/remove-character3815/0/#
 
 class Solution{
     static String removeChars(String string1, String string2){
