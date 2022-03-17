@@ -1,4 +1,7 @@
+// https://practice.geeksforgeeks.org/problems/sum-of-primes0042/1/?page=2&company[]=Zoho&sortBy=latest
+
 class Solution{
+
     static boolean isPrime(int p){
         // if(p<=1){
         //     return false;
