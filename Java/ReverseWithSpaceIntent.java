@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/reverse-a-string-with-spaces-intact5213/1/?page=2&company[]=Zoho&sortBy=latest#
+
 class Solution
 {
     String reverseWithSpacesIntact(String S)
