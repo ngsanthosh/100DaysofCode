@@ -1,3 +1,5 @@
+https://practice.geeksforgeeks.org/problems/find-second-largest-element2406/1/?page=3#
+
 class Solution
 { 
     public static int print2largest(int A[],int N) 
