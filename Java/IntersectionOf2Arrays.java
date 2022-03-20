@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/intersection-of-two-arrays2404/1#
+
 class Solution {
     // Function to return the count of the number of elements in
     // the intersection of two arrays.
