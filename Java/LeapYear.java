@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/leap-year0943/1/?page=3
+
 class Solution{
     static int isLeap(int N){
         //code here
