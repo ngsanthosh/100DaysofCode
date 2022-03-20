@@ -1,3 +1,6 @@
+
+// https://practice.geeksforgeeks.org/problems/anagram-1587115620/1#
+
 class Solution
 {    
     //Function is to check whether two strings are anagram of each other or not.
