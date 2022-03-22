@@ -15,6 +15,6 @@ static void printPattern(String str, int len)
 		System.out.print(" ");
 	}
 
-// 	System.out.println();
+	System.out.println();
 	}
 }
